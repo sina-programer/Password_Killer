@@ -1,11 +1,11 @@
 # Password_Killer
 
 ## About the program:
-You can kill(remove) the login password for the current user easily!<br>
-just run the app as an administrator
+You can kill(remove) the login password for each user easily!<br>
+just run the app as an administrator and select a user to start process
 
 ### Features:
-- Kill(remove) the login password for the current user
+- Kill(remove) the login password for each user
 
 ### Notes:
 - This program only works on Windows OS
