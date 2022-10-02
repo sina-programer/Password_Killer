@@ -12,13 +12,6 @@ time.sleep(.5)
 print('\n Welcome to Password Killer (written by Sina.f)\n')
 time.sleep(1)
 
-for i in range(10):
-    for char in loading_chars:
-        print(f'\r Extracting users... {char}', end='')
-        time.sleep(0.15)
-
-print('\n')
-time.sleep(1)
 
 for idx, user in enumerate(users, 1):
     print(f' {idx}_ {user}')
